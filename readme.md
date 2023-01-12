@@ -1,4 +1,6 @@
-# Hello, GIT!!!
+# Hello
+
+## GIT
 
 *Курсив*
 
