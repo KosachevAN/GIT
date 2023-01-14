@@ -1,6 +1,9 @@
 # Hello
 *mybranch*
 
+ФОТО:
+![фото](Penguins.jpg)
+
 ## GIT
 
     Отступ
